@@ -4,7 +4,7 @@
  * @Author:
  * @Data: Do not edit
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2022-12-04 22:29:47
+ * @LastEditTime: 2022-12-05 17:42:32
  */
 import React from 'react'
 // import { createRoot } from 'react-dom/client'
@@ -22,5 +22,5 @@ import React from 'react'
 // const root = createRoot(app!)
 
 // root.render(<React.StrictMode>{rootNode()}</React.StrictMode>)
-const Header = () => <div>this is Header12312378787878</div>
+const Header = () => <div>this is Header</div>
 export default Header
