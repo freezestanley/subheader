@@ -1,5 +1,5 @@
 {
-  "name": "@fl/header",
+  "name": "fl_header",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.ts",
